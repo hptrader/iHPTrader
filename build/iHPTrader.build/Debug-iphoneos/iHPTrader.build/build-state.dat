@@ -1,0 +1,484 @@
+TiHPTrader
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTAsciiMarketDataStore.h
+c0000000051B4972A0000000000000199
+t1370789674
+s409
+i<Foundation/Foundation.h>
+i"HPTInMemoryMarketDataStore.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTAsciiMarketDataStore.m
+c0000000051B9046B0000000000001747
+t1371079787
+s5959
+i"HPTAsciiMarketDataStore.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTBarData.h
+c0000000051BAFEC50000000000000485
+t1371209413
+s1157
+i<Foundation/Foundation.h>
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTBarData.m
+c0000000051B9DB140000000000000D1A
+t1371134740
+s3354
+i"HPTBarData.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTDictionary.h
+c0000000051B47438000000000000019F
+t1370780728
+s415
+i<Foundation/Foundation.h>
+i"HPTSymbolProtocol.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTDictionary.m
+c0000000051B4742C00000000000002AE
+t1370780716
+s686
+i"HPTDictionary.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTInMemoryMarketDataStore.h
+c0000000051B9E1B7000000000000016E
+t1371136439
+s366
+i<Foundation/Foundation.h>
+i"HPTMarketDataStoreProtocol.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTInMemoryMarketDataStore.m
+c0000000051BB0F980000000000001C6C
+t1371213720
+s7276
+i"HPTInMemoryMarketDataStore.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTMarketDataLoaderProtocol.h
+c0000000051B72DED000000000000023C
+t1370959341
+s572
+i<Foundation/Foundation.h>
+i"HPTWatchListProtocol.h"
+i"HPTDictionary.h"
+i"HPTMarketDataStoreProtocol.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTMarketDataStoreProtocol.h
+c0000000051B9E1B00000000000000431
+t1371136432
+s1073
+i<Foundation/Foundation.h>
+i"HPTSymbolProtocol.h"
+i"HPTBarData.h"
+i"HPTYahooSymbol.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTSymbolProtocol.h
+c0000000051B48E4900000000000001E3
+t1370787401
+s483
+i<Foundation/Foundation.h>
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTWatchListProtocol.h
+c0000000051ADE81A0000000000000135
+t1370351642
+s309
+i<Foundation/Foundation.h>
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooFinanceMarketDataLoader.h
+c0000000051BA8773000000000000027B
+t1371178867
+s635
+i<Foundation/Foundation.h>
+i"HPTMarketDataLoaderProtocol.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooFinanceMarketDataLoader.m
+c0000000051BB366D0000000000003F07
+t1371223661
+s16135
+i"HPTYahooFinanceMarketDataLoader.h"
+i"HPTSymbolProtocol.h"
+i"HPTBarData.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooHKExEquityDictionary.h
+c0000000051B472380000000000000151
+t1370780216
+s337
+i<Foundation/Foundation.h>
+i"HPTDictionary.h"
+i"HPTYahooSymbol.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooHKExEquityDictionary.m
+c0000000051BB2B1400000000000005DC
+t1371220756
+s1500
+i"HPTYahooHKExEquityDictionary.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooSymbol.h
+c0000000051B48A5D000000000000012E
+t1370786397
+s302
+i<Foundation/Foundation.h>
+i"HPTSymbolProtocol.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooSymbol.m
+c0000000051B9BCB60000000000000500
+t1371126966
+s1280
+i"HPTYahooSymbol.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooWatchList.h
+c0000000051ACAF0B000000000000015F
+t1370271499
+s351
+i<Foundation/Foundation.h>
+i"HPTWatchListProtocol.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooWatchList.m
+c0000000051B89D520000000000000417
+t1371053394
+s1047
+i"HPTYahooWatchList.h"
+i"HPTSymbolProtocol.h"
+i"HPTYahooSymbol.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderAppDelegate.h
+c0000000051A4CFFB00000000000001EC
+t1369755643
+s492
+i<UIKit/UIKit.h>
+i"iHPTraderRootController.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderAppDelegate.m
+c0000000051A4CA9F0000000000000A5F
+t1369754271
+s2655
+i"iHPTraderAppDelegate.h"
+i"iHPTraderRootController.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.h
+c0000000051B49D050000000000000201
+t1370791173
+s513
+i<UIKit/UIKit.h>
+i"HPTSymbolProtocol.h"
+i"HPTYahooSymbol.h"
+i"HPTBarData.h"
+i"HPTYahooFinanceMarketDataLoader.h"
+i"HPTYahooWatchList.h"
+i"HPTYahooHKExEquityDictionary.h"
+i"HPTInMemoryMarketDataStore.h"
+i"HPTAsciiMarketDataStore.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.m
+c0000000051BB277D0000000000001B01
+t1371219837
+s6913
+i"iHPTraderRootController.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.xib
+c0000000051A4CA7500000000000042EE
+t1369754229
+s17134
+
+N/Users/hugo/Obj-c Project/iHPTrader/MainWindow.xib
+c0000000051A4C9C70000000000005071
+t1369754055
+s20593
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphoneos/iHPTrader.app
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphoneos/iHPTrader.app.dSYM
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphoneos/iHPTrader.app/Info.plist
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphoneos/iHPTrader.app/MainWindow.nib
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphoneos/iHPTrader.app/PkgInfo
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphoneos/iHPTrader.app/ResourceRules.plist
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphoneos/iHPTrader.app/iHPTrader
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphoneos/iHPTrader.app/iHPTraderRootController.nib
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTAsciiMarketDataStore.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTBarData.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTDictionary.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTInMemoryMarketDataStore.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTYahooFinanceMarketDataLoader.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTYahooHKExEquityDictionary.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTYahooSymbol.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTYahooWatchList.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/iHPTrader
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/iHPTrader.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/iHPTraderAppDelegate.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/iHPTraderRootController.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTAsciiMarketDataStore.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTBarData.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTDictionary.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTInMemoryMarketDataStore.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTYahooFinanceMarketDataLoader.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTYahooHKExEquityDictionary.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTYahooSymbol.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTYahooWatchList.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/iHPTrader
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/iHPTrader.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/iHPTraderAppDelegate.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/iHPTraderRootController.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/hugo/Obj-c Project/iHPTrader/iHPTrader_Prefix.pch
+c0000000051A4BE2F00000000000000BB
+t1369751087
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hugo/Obj-c Project/iHPTrader/main.m
+c0000000051A4BE2F000000000000016A
+t1369751087
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/lp/lpiJagKUE6yfsuKPrp3YRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iHPTrader_Prefix-cyywossxpsvtkcgebzazgalblgxf/iHPTrader_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/lp/lpiJagKUE6yfsuKPrp3YRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iHPTrader_Prefix-gumoazuvxcvivuarwoiddczobkfo/iHPTrader_Prefix.pch.gch
+t2
+s0
+
+NiHPTrader-Info.plist
+c0000000051A4BE2F000000000000038D
+t1369751087
+s909
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTAsciiMarketDataStore.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTAsciiMarketDataStore.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTBarData.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTBarData.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTDictionary.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTDictionary.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTInMemoryMarketDataStore.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTInMemoryMarketDataStore.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTYahooFinanceMarketDataLoader.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooFinanceMarketDataLoader.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTYahooHKExEquityDictionary.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooHKExEquityDictionary.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTYahooSymbol.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooSymbol.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/HPTYahooWatchList.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooWatchList.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/iHPTraderAppDelegate.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/iHPTraderRootController.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/main.o "/Users/hugo/Obj-c Project/iHPTrader/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTAsciiMarketDataStore.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTAsciiMarketDataStore.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTBarData.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTBarData.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTDictionary.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTDictionary.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTInMemoryMarketDataStore.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTInMemoryMarketDataStore.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTYahooFinanceMarketDataLoader.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooFinanceMarketDataLoader.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTYahooHKExEquityDictionary.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooHKExEquityDictionary.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTYahooSymbol.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooSymbol.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/HPTYahooWatchList.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/HPTYahooWatchList.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/iHPTraderAppDelegate.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/iHPTraderRootController.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/main.o "/Users/hugo/Obj-c Project/iHPTrader/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.xib"
+r0
+
+CCompileXIB "/Users/hugo/Obj-c Project/iHPTrader/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphoneos/iHPTrader.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphoneos/iHPTrader.app/iHPTrader" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphoneos/iHPTrader.app.dSYM" "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphoneos/iHPTrader.app/iHPTrader"
+r0
+
+CLd "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv6/iHPTrader" normal armv6
+r0
+
+CLd "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphoneos/iHPTrader.build/Objects-normal/armv7/iHPTrader" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphoneos/iHPTrader.app/Info.plist" iHPTrader-Info.plist
+r0
+
+CProcessPCH /var/folders/lp/lpiJagKUE6yfsuKPrp3YRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iHPTrader_Prefix-cyywossxpsvtkcgebzazgalblgxf/iHPTrader_Prefix.pch.gch iHPTrader_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/lp/lpiJagKUE6yfsuKPrp3YRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iHPTrader_Prefix-gumoazuvxcvivuarwoiddczobkfo/iHPTrader_Prefix.pch.gch iHPTrader_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphoneos/iHPTrader.app"
+r0
+
