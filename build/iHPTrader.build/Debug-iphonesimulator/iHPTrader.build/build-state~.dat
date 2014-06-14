@@ -1,0 +1,257 @@
+TiHPTrader
+v7
+r0
+t391445413.747460
+cCheck dependencies
+cProcessInfoPlistFile "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/Info.plist" iHPTrader-Info.plist
+cCompileXIB "/Users/hugo/Obj-c Project/iHPTrader/MainWindow.xib"
+cCompileXIB "/Users/hugo/Obj-c Project/iHPTrader/iHPTraderRootView.xib"
+cProcessPCH /var/folders/lp/lpiJagKUE6yfsuKPrp3YRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iHPTrader_Prefix-ayhpaurjrafekgewnrgxkuqpdhvt/iHPTrader_Prefix.pch.gch iHPTrader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/main.o "/Users/hugo/Obj-c Project/iHPTrader/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/iHPTraderAppDelegate.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/iHPTraderRootController.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/iHPTrader" normal i386
+cGenerateDSYMFile "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app.dSYM" "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/iHPTrader"
+cTouch "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderAppDelegate.h
+c0000000051A4C27300000000000001E8
+t1369752179
+s488
+i<UIKit/UIKit.h>
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderAppDelegate.m
+c0000000051A4C2C20000000000000A49
+t1369752258
+s2633
+i"iHPTraderAppDelegate.h"
+i"iHPTraderRootController.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.h
+c0000000051A4C0C600000000000000F3
+t1369751750
+s243
+i<UIKit/UIKit.h>
+
+N/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.m
+c0000000051A4C0C60000000000000634
+t1369751750
+s1588
+i"iHPTraderRootController.h"
+
+N/Users/hugo/Obj-c Project/iHPTrader/MainWindow.xib
+c0000000051A4C21700000000000050E9
+t1369752087
+s20713
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app
+t1369752613
+s238
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app.dSYM
+t1369752613
+s102
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/Info.plist
+t1369752611
+s599
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/MainWindow.nib
+t1369752612
+s1179
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/PkgInfo
+t1369752611
+s8
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/iHPTrader
+t1369752613
+s17152
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/iHPTraderRootView.nib
+t1369752612
+s1243
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/iHPTrader.LinkFileList
+c0000000051A4C4230000000000000194
+t1369752611
+s404
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/iHPTraderAppDelegate.o
+t1369752613
+s50944
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/iHPTraderRootController.o
+t1369752613
+s37736
+
+N/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/main.o
+t1369752613
+s6296
+
+N/Users/hugo/Obj-c Project/iHPTrader/iHPTraderRootView.xib
+c0000000051A4C41F00000000000041CA
+t1369752607
+s16842
+
+N/Users/hugo/Obj-c Project/iHPTrader/iHPTrader_Prefix.pch
+c0000000051A4BE2F00000000000000BB
+t1369751087
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hugo/Obj-c Project/iHPTrader/main.m
+c0000000051A4BE2F000000000000016A
+t1369751087
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/lp/lpiJagKUE6yfsuKPrp3YRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iHPTrader_Prefix-ayhpaurjrafekgewnrgxkuqpdhvt/iHPTrader_Prefix.pch.gch
+t1369752613
+s15453392
+
+NiHPTrader-Info.plist
+c0000000051A4BE2F000000000000038D
+t1369751087
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies391445411#391445411#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/iHPTraderAppDelegate.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s391445413.204099
+e391445413.363305
+r1
+xCompileC
+xbuild/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/iHPTraderAppDelegate.o
+x/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderAppDelegate.m391445413#391445413#0(0"0(0#0#66"/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderAppDelegate.m8615055616#1983"    cd "/Users/hugo/Obj-c Project/iHPTrader"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-generated-files.hmap" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-own-target-headers.hmap" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-all-target-headers.hmap" -iquote "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-project-headers.hmap" "-F/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator" "-I/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/include" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/DerivedSources/i386" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/DerivedSources" -include /var/folders/lp/lpiJagKUE6yfsuKPrp3YRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iHPTrader_Prefix-ayhpaurjrafekgewnrgxkuqpdhvt/iHPTrader_Prefix.pch -c "/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderAppDelegate.m" -o "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/iHPTraderAppDelegate.o"0#
+
+CCompileC build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/iHPTraderRootController.o "/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s391445413.204974
+e391445413.359696
+r1
+xCompileC
+xbuild/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/iHPTraderRootController.o
+x/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.m391445413#391445413#0(0"0(0#0#69"/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.m8614971936#1989"    cd "/Users/hugo/Obj-c Project/iHPTrader"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-generated-files.hmap" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-own-target-headers.hmap" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-all-target-headers.hmap" -iquote "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-project-headers.hmap" "-F/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator" "-I/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/include" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/DerivedSources/i386" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/DerivedSources" -include /var/folders/lp/lpiJagKUE6yfsuKPrp3YRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iHPTrader_Prefix-ayhpaurjrafekgewnrgxkuqpdhvt/iHPTrader_Prefix.pch -c "/Users/hugo/Obj-c Project/iHPTrader/Classes/iHPTraderRootController.m" -o "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/iHPTraderRootController.o"0#
+
+CCompileC build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/main.o "/Users/hugo/Obj-c Project/iHPTrader/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s391445413.203057
+e391445413.354437
+r1
+xCompileC
+xbuild/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/main.o
+x/Users/hugo/Obj-c Project/iHPTrader/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/hugo/Obj-c Project/iHPTrader/main.m391445413#391445413#0(0"0(0#0#42"/Users/hugo/Obj-c Project/iHPTrader/main.m8614374208#1943"    cd "/Users/hugo/Obj-c Project/iHPTrader"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-generated-files.hmap" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-own-target-headers.hmap" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-all-target-headers.hmap" -iquote "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-project-headers.hmap" "-F/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator" "-I/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/include" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/DerivedSources/i386" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/DerivedSources" -include /var/folders/lp/lpiJagKUE6yfsuKPrp3YRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iHPTrader_Prefix-ayhpaurjrafekgewnrgxkuqpdhvt/iHPTrader_Prefix.pch -c "/Users/hugo/Obj-c Project/iHPTrader/main.m" -o "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/hugo/Obj-c Project/iHPTrader/MainWindow.xib"
+s391445411.919157
+e391445412.307282
+r1
+xCompileXIB
+x/Users/hugo/Obj-c Project/iHPTrader/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib391445411#391445412#0(0"0(0#0#50"/Users/hugo/Obj-c Project/iHPTrader/MainWindow.xib8614936544#569"    cd "/Users/hugo/Obj-c Project/iHPTrader"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/MainWindow.nib" "/Users/hugo/Obj-c Project/iHPTrader/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/hugo/Obj-c Project/iHPTrader/iHPTraderRootView.xib"
+s391445411.919886
+e391445412.307715
+r1
+xCompileXIB
+x/Users/hugo/Obj-c Project/iHPTrader/iHPTraderRootView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@32"CompileXIB iHPTraderRootView.xib391445411#391445412#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#57"/Users/hugo/Obj-c Project/iHPTrader/iHPTraderRootView.xib8614574624#583"    cd "/Users/hugo/Obj-c Project/iHPTrader"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/iHPTraderRootView.nib" "/Users/hugo/Obj-c Project/iHPTrader/iHPTraderRootView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app.dSYM" "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/iHPTrader"
+s391445413.604898
+e391445413.729977
+r1
+xGenerateDSYMFile
+x/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app.dSYM
+x/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/iHPTrader
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/iHPTrader.app.dSYM build/Debug-iphonesimulator/iHPTrader.app/iHPTrader391445413#391445413#0(0"0(0#0#87"/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/iHPTrader8614390464#386"    cd "/Users/hugo/Obj-c Project/iHPTrader"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/iHPTrader" -o "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app.dSYM"0#
+
+CLd "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/iHPTrader" normal i386
+s391445413.363388
+e391445413.604827
+r1
+xLd
+x/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/iHPTrader
+xnormal
+xi386
+lSLF07#2@92"Link /Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/iHPTrader391445413#391445413#0(0"0(0#0#0"8613681504#905"    cd "/Users/hugo/Obj-c Project/iHPTrader"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator" "-F/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator" -filelist "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/Objects-normal/i386/iHPTrader.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/iHPTrader"0#
+
+CProcessInfoPlistFile "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/Info.plist" iHPTrader-Info.plist
+s391445411.850321
+e391445411.919055
+r1
+xProcessInfoPlistFile
+x/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/Info.plist
+xiHPTrader-Info.plist
+lSLF07#2@28"Process iHPTrader-Info.plist391445411#391445411#0(0"0(0#0#56"/Users/hugo/Obj-c Project/iHPTrader/iHPTrader-Info.plist7579402520907312128#482"    cd "/Users/hugo/Obj-c Project/iHPTrader"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iHPTrader-Info.plist -genpkginfo "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app/Info.plist"0#
+
+CProcessPCH /var/folders/lp/lpiJagKUE6yfsuKPrp3YRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iHPTrader_Prefix-ayhpaurjrafekgewnrgxkuqpdhvt/iHPTrader_Prefix.pch.gch iHPTrader_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s391445412.307928
+e391445413.202945
+r1
+xProcessPCH
+x/var/folders/lp/lpiJagKUE6yfsuKPrp3YRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iHPTrader_Prefix-ayhpaurjrafekgewnrgxkuqpdhvt/iHPTrader_Prefix.pch.gch
+xiHPTrader_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile iHPTrader_Prefix.pch391445412#391445413#0(0"0(0#0#56"/Users/hugo/Obj-c Project/iHPTrader/iHPTrader_Prefix.pch8614254720#1834"    cd "/Users/hugo/Obj-c Project/iHPTrader"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-generated-files.hmap" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-own-target-headers.hmap" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-all-target-headers.hmap" -iquote "/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/iHPTrader-project-headers.hmap" "-F/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator" "-I/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/include" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/DerivedSources/i386" "-I/Users/hugo/Obj-c Project/iHPTrader/build/iHPTrader.build/Debug-iphonesimulator/iHPTrader.build/DerivedSources" -c "/Users/hugo/Obj-c Project/iHPTrader/iHPTrader_Prefix.pch" -o /var/folders/lp/lpiJagKUE6yfsuKPrp3YRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iHPTrader_Prefix-ayhpaurjrafekgewnrgxkuqpdhvt/iHPTrader_Prefix.pch.gch0#
+
+CTouch "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app"
+s391445413.730065
+e391445413.747390
+r1
+xTouch
+x/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app
+lSLF07#2@83"Touch /Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app391445413#391445413#0(0"0(0#0#0"8613437760#278"    cd "/Users/hugo/Obj-c Project/iHPTrader"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/hugo/Obj-c Project/iHPTrader/build/Debug-iphonesimulator/iHPTrader.app"0#
+
