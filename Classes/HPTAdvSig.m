@@ -13,6 +13,7 @@
 
 //just for git commit
 //
+//
 - (void)deriveData{
 	_isBuy = NO;
 	_isSell = NO;
